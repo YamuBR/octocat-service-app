@@ -8,4 +8,5 @@
 **/test_data/**
 .idea
 **/dist/**
+**/log/**
 config/oauth_config.json
