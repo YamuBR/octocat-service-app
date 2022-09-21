@@ -6,7 +6,7 @@
 **/.vscode/**
 **/node_modules/**
 **/test_data/**
+**/log/**
 .idea
 **/dist/**
-**/log/**
 config/oauth_config.json
